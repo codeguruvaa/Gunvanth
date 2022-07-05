@@ -1,0 +1,27 @@
+section{
+    margin: 25px;
+}
+
+.secOne{
+    float: left;
+}
+.secTwo{
+    float: left;
+    margin-left: 150px;
+}
+
+.boxOne{
+    width: 230px;
+    height: 260px;
+    background-color: orange;
+    position: absolute;
+}
+.btn{
+    width: 115px;
+    height: 65px;
+    background-color: orangered;
+
+    position: relative;
+    top: 220px;
+    left: 57px;
+}
